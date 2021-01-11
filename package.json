@@ -24,7 +24,7 @@
   ],
   "main": "n/a",
   "scripts": {
-    "serve": "gatsby build && NODE_ENV=production gatsby serve",
+    "serve": "gatsby build",
     "build": "gatsby build",
     "dev": "gatsby develop",
     "lint": "eslint . --ext .js --cache",
